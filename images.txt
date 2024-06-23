@@ -1,2 +1,3 @@
 xiaoyaliu/alist
 whyour/qinglong
+xiaoyaliu/alist:hostmode
